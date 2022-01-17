@@ -1,0 +1,22 @@
+TIPOS DE ERROS:
+
+ECMAScript Error --> Erros que ocorrem em tempo de execução.
+    composto por:
+        mensagem
+        nome
+        linha
+        call stack
+
+DOMException --> Erros relacionados ao Document Object Model (DOM)
+    Quando há um erro no código executado em uma página web
+
+--------------------------------------------------------------------------
+
+TRATAMENTO DE ERROS:
+
+Throw --> Traz a mensagem de uma validação como um "erro". O Return traz apenas a string.
+
+Try e Catch ou Finally:
+    Processo que verifica se há algum erro dentro do bloco try, se houver algum erro ele será capturado pela função catch, onde poderá ser manipulada/tratada.
+
+Finally --> É um "pedaço" do código que executa um código de qualquer maneira (havendo um erro ou não). É opcional.

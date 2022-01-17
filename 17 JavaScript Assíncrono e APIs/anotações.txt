@@ -1,0 +1,6 @@
+Promises --> Inicialmente o seu valor é desconhecido. Ela pode, então, ser resolvida ou rejeitada.
+    Ela pode ter três estados:
+        1 - Pending (pendente)
+        2 - Fulfilled (completada)
+        3 - Rejected (Rejeitada)
+
