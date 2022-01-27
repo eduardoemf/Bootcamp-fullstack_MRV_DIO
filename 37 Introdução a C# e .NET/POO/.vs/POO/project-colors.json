@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6c221010-5ad9-4605-a6b5-c62b02d5866e": {
+      "ProjectGuid": "6c221010-5ad9-4605-a6b5-c62b02d5866e",
+      "DisplayName": "POO",
+      "ColorIndex": 0
+    },
+    "96c0e595-c2f4-4fd2-bfb9-ceff3e36c3e4": {
+      "ProjectGuid": "96c0e595-c2f4-4fd2-bfb9-ceff3e36c3e4",
+      "DisplayName": "Models",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

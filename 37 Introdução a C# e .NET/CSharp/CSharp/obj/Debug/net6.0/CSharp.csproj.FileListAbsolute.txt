@@ -1,0 +1,15 @@
+C:\Users\eduar\Documents\Cusrsos_Capacitação_Tecnologia\Digital Innovation One\Bootcamps\FullStack_MRV\Bootcamp-fullstack_MRV_DIO\37 Introdução a C# e .NET\CSharp\CSharp\bin\Debug\net6.0\CSharp.exe
+C:\Users\eduar\Documents\Cusrsos_Capacitação_Tecnologia\Digital Innovation One\Bootcamps\FullStack_MRV\Bootcamp-fullstack_MRV_DIO\37 Introdução a C# e .NET\CSharp\CSharp\bin\Debug\net6.0\CSharp.deps.json
+C:\Users\eduar\Documents\Cusrsos_Capacitação_Tecnologia\Digital Innovation One\Bootcamps\FullStack_MRV\Bootcamp-fullstack_MRV_DIO\37 Introdução a C# e .NET\CSharp\CSharp\bin\Debug\net6.0\CSharp.runtimeconfig.json
+C:\Users\eduar\Documents\Cusrsos_Capacitação_Tecnologia\Digital Innovation One\Bootcamps\FullStack_MRV\Bootcamp-fullstack_MRV_DIO\37 Introdução a C# e .NET\CSharp\CSharp\bin\Debug\net6.0\CSharp.dll
+C:\Users\eduar\Documents\Cusrsos_Capacitação_Tecnologia\Digital Innovation One\Bootcamps\FullStack_MRV\Bootcamp-fullstack_MRV_DIO\37 Introdução a C# e .NET\CSharp\CSharp\bin\Debug\net6.0\ref\CSharp.dll
+C:\Users\eduar\Documents\Cusrsos_Capacitação_Tecnologia\Digital Innovation One\Bootcamps\FullStack_MRV\Bootcamp-fullstack_MRV_DIO\37 Introdução a C# e .NET\CSharp\CSharp\bin\Debug\net6.0\CSharp.pdb
+C:\Users\eduar\Documents\Cusrsos_Capacitação_Tecnologia\Digital Innovation One\Bootcamps\FullStack_MRV\Bootcamp-fullstack_MRV_DIO\37 Introdução a C# e .NET\CSharp\CSharp\obj\Debug\net6.0\CSharp.csproj.AssemblyReference.cache
+C:\Users\eduar\Documents\Cusrsos_Capacitação_Tecnologia\Digital Innovation One\Bootcamps\FullStack_MRV\Bootcamp-fullstack_MRV_DIO\37 Introdução a C# e .NET\CSharp\CSharp\obj\Debug\net6.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Documents\Cusrsos_Capacitação_Tecnologia\Digital Innovation One\Bootcamps\FullStack_MRV\Bootcamp-fullstack_MRV_DIO\37 Introdução a C# e .NET\CSharp\CSharp\obj\Debug\net6.0\CSharp.AssemblyInfoInputs.cache
+C:\Users\eduar\Documents\Cusrsos_Capacitação_Tecnologia\Digital Innovation One\Bootcamps\FullStack_MRV\Bootcamp-fullstack_MRV_DIO\37 Introdução a C# e .NET\CSharp\CSharp\obj\Debug\net6.0\CSharp.AssemblyInfo.cs
+C:\Users\eduar\Documents\Cusrsos_Capacitação_Tecnologia\Digital Innovation One\Bootcamps\FullStack_MRV\Bootcamp-fullstack_MRV_DIO\37 Introdução a C# e .NET\CSharp\CSharp\obj\Debug\net6.0\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\Cusrsos_Capacitação_Tecnologia\Digital Innovation One\Bootcamps\FullStack_MRV\Bootcamp-fullstack_MRV_DIO\37 Introdução a C# e .NET\CSharp\CSharp\obj\Debug\net6.0\CSharp.dll
+C:\Users\eduar\Documents\Cusrsos_Capacitação_Tecnologia\Digital Innovation One\Bootcamps\FullStack_MRV\Bootcamp-fullstack_MRV_DIO\37 Introdução a C# e .NET\CSharp\CSharp\obj\Debug\net6.0\ref\CSharp.dll
+C:\Users\eduar\Documents\Cusrsos_Capacitação_Tecnologia\Digital Innovation One\Bootcamps\FullStack_MRV\Bootcamp-fullstack_MRV_DIO\37 Introdução a C# e .NET\CSharp\CSharp\obj\Debug\net6.0\CSharp.pdb
+C:\Users\eduar\Documents\Cusrsos_Capacitação_Tecnologia\Digital Innovation One\Bootcamps\FullStack_MRV\Bootcamp-fullstack_MRV_DIO\37 Introdução a C# e .NET\CSharp\CSharp\obj\Debug\net6.0\CSharp.genruntimeconfig.cache
